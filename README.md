@@ -40,12 +40,12 @@ Skills:<br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://www.amazon.com/Swift-Programming-Beginners-Sridhar-Muthineni/dp/9358388021
-https://dzone.com/articles/beginners-guide-to-swiftui-state-management
-https://programminginsider.com/sridhar-rao-muthineni-a-leader-in-mobile-apps-development-for-healthcare/
-https://usawire.com/use-of-ai-in-mobile-apps-a-healthcare-revolution-with-sridhar-rao-muthinenis-expertise/
-https://www.theliteraturetimes.com/an-interview-with-sridhar-rao-muthineni-author-of-the-book-swift-programming-for-beginners/
-https://asianliterature.in/swift-programming-for-beginners-by-sridhar-rao-muthineni-review/
+https://www.amazon.com/Swift-Programming-Beginners-Sridhar-Muthineni/dp/9358388021<br>
+https://dzone.com/articles/beginners-guide-to-swiftui-state-management<br>
+https://programminginsider.com/sridhar-rao-muthineni-a-leader-in-mobile-apps-development-for-healthcare/<br>
+https://usawire.com/use-of-ai-in-mobile-apps-a-healthcare-revolution-with-sridhar-rao-muthinenis-expertise/<br>
+https://www.theliteraturetimes.com/an-interview-with-sridhar-rao-muthineni-author-of-the-book-swift-programming-for-beginners/<br>
+https://asianliterature.in/swift-programming-for-beginners-by-sridhar-rao-muthineni-review/<br>
 
 <!-- BLOG-POST-LIST:END -->
 
