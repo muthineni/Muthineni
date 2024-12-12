@@ -1,5 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sridhar</h1>
-<h3 align="center">A passionate mobile leader</h3>
+<h1 align="center">Hi 👋, I'm Sridhar Muthineni</h1>
+<h3 align="center">Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.
+
+Currently a Principal Engineer at Optum, where I oversee the architecture, design, and deployment of mobile products, manage cross-functional collaboration, and set engineering best practices. With strong leadership and mentoring abilities, I ensure the alignment of development efforts and strategic goals across the organization. I have a passion for AI technologies, demonstrated by my completion of AI for Leaders at Carnegie Mellon University, and active participation in AI-driven projects and ethics initiatives.
+
+My technical stack includes Java, Swift, Python, Oracle, MongoDB, and cloud platforms such as Azure and Google Cloud. I am committed to fostering innovation, optimizing processes, and delivering impactful solutions that enhance business outcomes.
+
+Looking for leadership opportunities in mobile architecture or engineering management that leverage my deep technical knowledge, strategic thinking, and passion for AI to drive innovation and transformation.
+<br>
+Skills:
+• Mobile Architecture
+• iOS Development
+• Android Development
+• Cross-Platform Development (React Native, Xamarin)
+• Agile and Scrum Methodologies
+• Team Leadership & Mentoring
+• Software Architecture
+• System Design & Architecture
+• Cloud Computing (Azure, Google Cloud)
+• Continuous Integration & Continuous Deployment (CI/CD)
+• Project Management
+• AI & Machine Learning Concepts
+• Technical Strategy & Roadmap Planning
+• Swift, Java, Python
+• Database Management (Oracle, MongoDB)
+• Collaborating with Cross-Functional Teams
+• Problem Solving & Analytical Thinking
+• Product Lifecycle Management
+• Performance Optimization
+• Artificial Intelligence Ethics
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthineni&label=Profile%20views&color=0e75b6&style=flat" alt="muthineni" /> </p>
 
@@ -10,8 +39,6 @@
 - 🔭 I’m currently working on **Project1**
 
 - 📝 I regularly write articles on [http://medium.com/@m.sridharrao](http://medium.com/@m.sridharrao)
-
-- 📫 How to reach me **@SridharMuthine1**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
