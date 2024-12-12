@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sridhar Muthineni</h1>
-<h3 align="left">Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.
-
+<h4 align="left"><br>Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.
+<br>
 Currently a Principal Engineer at Optum, where I oversee the architecture, design, and deployment of mobile products, manage cross-functional collaboration, and set engineering best practices. With strong leadership and mentoring abilities, I ensure the alignment of development efforts and strategic goals across the organization. I have a passion for AI technologies, demonstrated by my completion of AI for Leaders at Carnegie Mellon University, and active participation in AI-driven projects and ethics initiatives.
-
+<br>
 My technical stack includes Java, Swift, Python, Oracle, MongoDB, and cloud platforms such as Azure and Google Cloud. I am committed to fostering innovation, optimizing processes, and delivering impactful solutions that enhance business outcomes.
-
+<br>
 Looking for leadership opportunities in mobile architecture or engineering management that leverage my deep technical knowledge, strategic thinking, and passion for AI to drive innovation and transformation.
 <br>
 Skills:<br>
@@ -28,7 +28,7 @@ Skills:<br>
 • Product Lifecycle Management<br>
 • Performance Optimization<br>
 • Artificial Intelligence Ethics<br>
-</h3>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthineni&label=Profile%20views&color=0e75b6&style=flat" alt="muthineni" /> </p>
 
@@ -36,12 +36,17 @@ Skills:<br>
 
 <p align="left"> <a href="https://twitter.com/sridharmuthine1" target="blank"><img src="https://img.shields.io/twitter/follow/sridharmuthine1?logo=twitter&style=for-the-badge" alt="sridharmuthine1" /></a> </p>
 
-- 🔭 I’m currently working on **Project1**
-
 - 📝 I regularly write articles on [http://medium.com/@m.sridharrao](http://medium.com/@m.sridharrao)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://www.amazon.com/Swift-Programming-Beginners-Sridhar-Muthineni/dp/9358388021
+https://dzone.com/articles/beginners-guide-to-swiftui-state-management
+https://programminginsider.com/sridhar-rao-muthineni-a-leader-in-mobile-apps-development-for-healthcare/
+https://usawire.com/use-of-ai-in-mobile-apps-a-healthcare-revolution-with-sridhar-rao-muthinenis-expertise/
+https://www.theliteraturetimes.com/an-interview-with-sridhar-rao-muthineni-author-of-the-book-swift-programming-for-beginners/
+https://asianliterature.in/swift-programming-for-beginners-by-sridhar-rao-muthineni-review/
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
