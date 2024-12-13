@@ -1,13 +1,13 @@
 <p align="center">Hi 👋, I'm Sridhar Muthineni</p>
-<p align="left"><br>Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.
+<p align="left"><br>Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.</p>
 <br>
-Currently a Principal Engineer at Optum, where I oversee the architecture, design, and deployment of mobile products, manage cross-functional collaboration, and set engineering best practices. With strong leadership and mentoring abilities, I ensure the alignment of development efforts and strategic goals across the organization. I have a passion for AI technologies, demonstrated by my completion of AI for Leaders at Carnegie Mellon University, and active participation in AI-driven projects and ethics initiatives.
+<p align="left">Currently a Principal Engineer at Optum, where I oversee the architecture, design, and deployment of mobile products, manage cross-functional collaboration, and set engineering best practices. With strong leadership and mentoring abilities, I ensure the alignment of development efforts and strategic goals across the organization. I have a passion for AI technologies, demonstrated by my completion of AI for Leaders at Carnegie Mellon University, and active participation in AI-driven projects and ethics initiatives.</p>
 <br>
-My technical stack includes Java, Swift, Python, Oracle, MongoDB, and cloud platforms such as Azure and Google Cloud. I am committed to fostering innovation, optimizing processes, and delivering impactful solutions that enhance business outcomes.
+<p align="left">My technical stack includes Java, Swift, Python, Oracle, MongoDB, and cloud platforms such as Azure and Google Cloud. I am committed to fostering innovation, optimizing processes, and delivering impactful solutions that enhance business outcomes.</p>
 <br>
-Looking for leadership opportunities in mobile architecture or engineering management that leverage my deep technical knowledge, strategic thinking, and passion for AI to drive innovation and transformation.
+<p align="left">Looking for leadership opportunities in mobile architecture or engineering management that leverage my deep technical knowledge, strategic thinking, and passion for AI to drive innovation and transformation.</p>
 <br>
-Skills:<br>
+<p align="left">Skills:<br>
 • Mobile Architecture<br>
 • iOS Development<br>
 • Android Development<br>
