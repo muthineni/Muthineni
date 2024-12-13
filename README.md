@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sridhar Muthineni</h1>
-<h4 align="left"><br>Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.
+<p align="center">Hi 👋, I'm Sridhar Muthineni</p>
+<p align="left"><br>Experienced Mobile Architect and Engineering Manager with over 15 years of expertise in designing and delivering cutting-edge mobile solutions across various industries. Proven track record of leading high-performance engineering teams, driving end-to-end mobile app development, and aligning technical initiatives with business objectives. Skilled in architecting scalable and high-quality mobile applications, both native and hybrid, with deep expertise in iOS, Android, and cross-platform development frameworks like React Native and Xamarin.
 <br>
 Currently a Principal Engineer at Optum, where I oversee the architecture, design, and deployment of mobile products, manage cross-functional collaboration, and set engineering best practices. With strong leadership and mentoring abilities, I ensure the alignment of development efforts and strategic goals across the organization. I have a passion for AI technologies, demonstrated by my completion of AI for Leaders at Carnegie Mellon University, and active participation in AI-driven projects and ethics initiatives.
 <br>
@@ -28,7 +28,7 @@ Skills:<br>
 • Product Lifecycle Management<br>
 • Performance Optimization<br>
 • Artificial Intelligence Ethics<br>
-</h4>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthineni&label=Profile%20views&color=0e75b6&style=flat" alt="muthineni" /> </p>
 
