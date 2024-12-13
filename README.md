@@ -30,12 +30,6 @@
 • Artificial Intelligence Ethics<br>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muthineni&label=Profile%20views&color=0e75b6&style=flat" alt="muthineni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthineni" alt="muthineni" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sridharmuthine1" target="blank"><img src="https://img.shields.io/twitter/follow/sridharmuthine1?logo=twitter&style=for-the-badge" alt="sridharmuthine1" /></a> </p>
-
 - 📝 I regularly write articles on [http://medium.com/@m.sridharrao](http://medium.com/@m.sridharrao)
 
 ### Blogs posts
